@@ -21,6 +21,7 @@ $ php artisan key:generate
 
 Setelah itu kalian sudah bisa lanjut mengerjakan soal berikutnya. jangan lupa untuk menjalankan server laravel
 ```bash
++-------------------
 $ php artisan serve
 ```
 ## 1. Membuat ERD (15 poin)
